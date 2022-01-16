@@ -3,6 +3,10 @@
     text-align: center; 
 }
 
+ul{
+    padding: 0;
+}
+
 a{
     font-size: 1.1em;
 }
